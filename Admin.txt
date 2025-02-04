@@ -1,2 +1,2 @@
 add and remove users
-change users
+change users who match condition A (thi is to test merge conflics)
